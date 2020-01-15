@@ -6,7 +6,7 @@ A Caesar cipher is a type of substitution in which each letter is shifted a cert
 #### By **Alvin Karanja**
 
 ## Setup/Installation Requirements
-* git cone https://github.com/Alvin-Karanja/Caeser-Cipher.git
+* git clone https://github.com/Alvin-Karanja/Caeser-Cipher.git
 
 ## Known Bugs
 No known bugs
